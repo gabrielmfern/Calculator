@@ -20,7 +20,7 @@ build :: () {
     plugin.workspace = w;
     disable_runtime_console(w);
     compiler_begin_intercept(w);
-    add_build_file(tprint("%main.jai", #filepath), w);
+    add_build_file(tprint("%calculator.jai", #filepath), w);
     while true {
         message := compiler_wait_for_message();
         plugin.message(plugin, message);
