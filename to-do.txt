@@ -9,3 +9,8 @@
 - add thousands separators
 - handle different locale number decimals (e.g. `,` for PT-BR)
 - support famous constants such as PHI, PI, and E
+- make `=` act like Enter
+- add a `=` sign button
+- allow for implicit multiplication (e.g. `2(3+4)`)
+- support for `%` as an operator, and add a button for it
+- handle more complex expressions when pasting, instead of simply dropping characters (e.g. 1.234,56 becomes 1.23456)
