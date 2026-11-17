@@ -795,7 +795,7 @@ use_input :: () {
         }
     }
     dragging_last_frame.* = dragging;
-    if on_click() {
+    if on_click(movement_threshold = true) {
         mouse_glyph := use_glyph_closest_to(get_mouse_position());
         if !shift                          then selection_anchor = -1;
         else if selection_anchor == -1     then selection_anchor = cursor;
