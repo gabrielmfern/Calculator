@@ -2,7 +2,7 @@
 
 A small, fast native calculator, built with [forbear](https://github.com/gabrielmfern/forbear).
 
-[Watch the demo](./demo.mp4)
+https://github.com/user-attachments/assets/8f44906e-5859-49f7-9908-214f0a1e52a8
 
 - Exe size: 3.6 MB, a single file with the font built in
 - Window shows up in about 50 ms
