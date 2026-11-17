@@ -1,0 +1,11 @@
+- double-clicking/triple-clicking to make selections in the input
+- handle overflowing of the expression's result
+- add more feeling to errors: shake the screen when there's an error, or make something red, since errors are quite intuitive for something as simple as this program
+- calculator history, and persistent state after closing and reopening the program
+- change from using `float64` for expression results to using something that never looses any precision
+- support radicals
+- add a scientific calculator mode that adds many more buttons
+- a hotkey mode that doesn't include the buttons and, once pressing enter, just copies the result and closes
+- add thousands separators
+- handle different locale number decimals (e.g. `,` for PT-BR)
+- support famous constants such as PHI, PI, and E
