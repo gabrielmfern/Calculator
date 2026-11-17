@@ -7,7 +7,6 @@ https://github.com/user-attachments/assets/8f44906e-5859-49f7-9908-214f0a1e52a8
 - Exe size: 3.6 MB, a single file with the font built in
 - Window shows up in about 50 ms
 - Memory: 10.5 MB working set
-- Full release build: 4.1 s
 - 1,155 lines of jai
 
 [Download for Windows](https://github.com/gabrielmfern/Calculator/releases/latest/download/Calculator.exe)
