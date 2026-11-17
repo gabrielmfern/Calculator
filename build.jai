@@ -1,6 +1,6 @@
 #import "Basic";
 #import "Compiler";
-#import,file "../../forbear.jai";
+#import "forbear";
 #if OS == .WINDOWS {
     #import "Windows_Resources";
     #import "Ico_File";

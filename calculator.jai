@@ -1,4 +1,4 @@
-#import "Basic";
+uimport "Basic";
 Math :: #import "Math";
 #import "File";
 #import "String";
